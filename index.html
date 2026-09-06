@@ -171,6 +171,27 @@
             transform: translateY(-1px);
         }
 
+        /* Header CTA buttons stacked vertically */
+        .afl-header-cta-stack {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            flex-shrink: 0;
+        }
+
+        .afl-header-cta-stack .afl-header-cta {
+            min-height: 42px;
+            width: 100%;
+        }
+
+        .afl-header-cta.corporate-training-btn {
+            background: #0891b2;
+        }
+
+        .afl-header-cta.corporate-training-btn:hover {
+            background: #0e7490;
+        }
+
         .afl-header .mobile-menu-btn {
             display: none;
             border: 0;
@@ -214,8 +235,14 @@
 
             .afl-nav .nav-item::after { display: none; }
 
-            .afl-header-cta {
+            .afl-header-cta-stack {
                 margin-top: 15px;
+                width: 100%;
+                gap: 10px;
+            }
+
+            .afl-header-cta {
+                margin-top: 0;
                 min-height: 48px;
             }
         }
@@ -258,7 +285,12 @@
                 <a href="hire-afl-talent.html" class="nav-item">Hire AFL Talent</a>
                 <a href="join-afl-team.html" class="nav-item">Join AFL Team</a>
                 <a href="contact.html" class="nav-item">Contact</a>
-                <a href="contact.html" class="afl-header-cta">FREE Career Counselling</a>
+                <div class="afl-header-cta-stack">
+                    <a href="contact.html" class="afl-header-cta">FREE Career Counselling</a>
+                    <a href="corporate-training-vadodara.html" class="afl-header-cta corporate-training-btn">
+                        Corporate Training
+                    </a>
+                </div>
             </nav>
 
         </div>
