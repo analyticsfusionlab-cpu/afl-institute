@@ -1,0 +1,30 @@
+AFL INSTITUTE - ONE-TIME GITHUB UPDATE
+
+Upload/replace ALL files from this folder into the ROOT of your GitHub repository.
+
+Main updated files:
+- index.html
+- courses.html
+- ai-ml-course-vadodara.html
+- aws-cloud-course-vadodara.html
+- digital-marketing-course-vadodara.html
+- graphic-design-course-vadodara.html
+
+New supporting blogs:
+- blog-aws-cloud-career-roadmap.html
+- blog-aws-cloud-practitioner-guide.html
+- blog-digital-marketing-career-roadmap.html
+- blog-seo-vs-google-ads.html
+- blog-graphic-design-career-roadmap.html
+- blog-photoshop-vs-illustrator-vs-canva.html
+- existing AI/ML supporting blogs included too
+
+Placement wording:
+- 80% placement assistance/support changed to 100% placement assistance/support in updated homepage/courses files.
+- No 100% placement guarantee wording has been added.
+
+Do not delete your assets/ folder or other existing website files.
+
+Developer credit update:
+- "Designed & Developed by VAYDE DIGITALZ SOLUTIONS" replaced with
+  "Designed & Developed by AFL Institute" wherever that credit existed in the included HTML files.
