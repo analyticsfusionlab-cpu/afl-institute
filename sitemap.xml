@@ -2,7 +2,10 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Main Pages -->
+  <!-- =========================
+       MAIN WEBSITE PAGES
+  ========================== -->
+
   <url>
     <loc>https://aflinstitute.in/</loc>
   </url>
@@ -19,21 +22,17 @@
     <loc>https://aflinstitute.in/contact.html</loc>
   </url>
 
-  <!-- Course Pages -->
+
+  <!-- =========================
+       COURSE PAGES
+  ========================== -->
+
   <url>
     <loc>https://aflinstitute.in/data-analytics-course-vadodara.html</loc>
   </url>
 
   <url>
     <loc>https://aflinstitute.in/data-science-course-vadodara.html</loc>
-  </url>
-
-  <url>
-    <loc>https://aflinstitute.in/digital-marketing-course-vadodara.html</loc>
-  </url>
-
-  <url>
-    <loc>https://aflinstitute.in/graphic-design-course-vadodara.html</loc>
   </url>
 
   <url>
@@ -44,10 +43,44 @@
     <loc>https://aflinstitute.in/aws-cloud-course-vadodara.html</loc>
   </url>
 
-  <!-- Blog -->
+  <url>
+    <loc>https://aflinstitute.in/digital-marketing-course-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/graphic-design-course-vadodara.html</loc>
+  </url>
+
+
+  <!-- =========================
+       CORPORATE / CAREER PAGES
+  ========================== -->
+
+  <url>
+    <loc>https://aflinstitute.in/corporate-training-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/hire-afl-talent.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/join-afl-team.html</loc>
+  </url>
+
+
+  <!-- =========================
+       BLOG MAIN PAGE
+  ========================== -->
+
   <url>
     <loc>https://aflinstitute.in/blog.html</loc>
   </url>
+
+
+  <!-- =========================
+       DATA ANALYTICS BLOGS
+  ========================== -->
 
   <url>
     <loc>https://aflinstitute.in/blog-data-analytics-career-vadodara.html</loc>
@@ -59,6 +92,70 @@
 
   <url>
     <loc>https://aflinstitute.in/blog-sql-for-data-analysts.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-python-vs-r-data-science.html</loc>
+  </url>
+
+
+  <!-- =========================
+       DATA SCIENCE / AI BLOGS
+  ========================== -->
+
+  <url>
+    <loc>https://aflinstitute.in/blog-data-science-career-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-machine-learning-roadmap.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-generative-ai-career-guide.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-ai-vs-machine-learning-vs-data-science.html</loc>
+  </url>
+
+
+  <!-- =========================
+       AWS CLOUD BLOGS
+  ========================== -->
+
+  <url>
+    <loc>https://aflinstitute.in/blog-aws-cloud-career-roadmap.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-aws-cloud-practitioner-guide.html</loc>
+  </url>
+
+
+  <!-- =========================
+       DIGITAL MARKETING BLOGS
+  ========================== -->
+
+  <url>
+    <loc>https://aflinstitute.in/blog-digital-marketing-career-roadmap.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-seo-vs-google-ads.html</loc>
+  </url>
+
+
+  <!-- =========================
+       GRAPHIC DESIGN BLOGS
+  ========================== -->
+
+  <url>
+    <loc>https://aflinstitute.in/blog-graphic-design-career-roadmap.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-photoshop-vs-illustrator-vs-canva.html</loc>
   </url>
 
 </urlset>
