@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://aflinstitute.in/</loc></url>
-  <url><loc>https://aflinstitute.in/about.html</loc></url>
-  <url><loc>https://aflinstitute.in/courses.html</loc></url>
-  <url><loc>https://aflinstitute.in/contact.html</loc></url>
-  <url><loc>https://aflinstitute.in/data-analytics-course-vadodara.html</loc></url>
-  <url><loc>https://aflinstitute.in/blog.html</loc></url>
-  <url><loc>https://aflinstitute.in/blog-data-analytics-career-vadodara.html</loc></url>
-  <url><loc>https://aflinstitute.in/blog-power-bi-vs-excel.html</loc></url>
-  <url><loc>https://aflinstitute.in/blog-sql-for-data-analysts.html</loc></url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://aflinstitute.in/</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/courses.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/contact.html</loc>
+  </url>
+
+  <!-- Course Pages -->
+  <url>
+    <loc>https://aflinstitute.in/data-analytics-course-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/data-science-course-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/digital-marketing-course-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/graphic-design-course-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/ai-ml-course-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/aws-cloud-course-vadodara.html</loc>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://aflinstitute.in/blog.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-data-analytics-career-vadodara.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-power-bi-vs-excel.html</loc>
+  </url>
+
+  <url>
+    <loc>https://aflinstitute.in/blog-sql-for-data-analysts.html</loc>
+  </url>
+
 </urlset>
