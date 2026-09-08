@@ -12,13 +12,13 @@
     <link rel="icon" href="assets/images/logo.png" type="image/png">
 
     <!-- Dynamic SEO Meta Tags -->
-        <<meta name="description" content="Join AFL Institute, a job-oriented IT training institute in Vadodara offering Data Analytics, Data Science, AI/ML, Digital Marketing, AWS and Graphic Design courses with practical training and placement assistance.">
+        <meta name="description" content="Join AFL Institute, a job-oriented IT training institute in Vadodara offering Data Analytics, Data Science, AI/ML, Digital Marketing, AWS and Graphic Design courses with practical training and placement assistance.">
     
 
     <!-- Open Graph / Social SEO -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://aflinstitute.in/">
-    <<meta property="og:title" content="IT Training Institute in Vadodara | Data Analytics & AI | AFL Institute">
+    <meta property="og:title" content="IT Training Institute in Vadodara | Data Analytics & AI | AFL Institute">
     <meta property="og:description" content="Explore job-oriented Data Analytics, Data Science, AI/ML, Digital Marketing, AWS and Graphic Design courses at AFL Institute in Vadodara with practical training and placement assistance.">
     <meta property="og:image" content="https://aflinstitute.in/assets/images/logo.png">
 
@@ -341,7 +341,373 @@
             .afl-brand-text strong { font-size: 17px; }
             .afl-brand-text span { font-size: 9px; }
         }
-    </style>
+
+        /* ===== AFL Student Success Stories ===== */
+        .afl-success-section {
+            padding: 70px 0;
+            background: #ffffff;
+            overflow: hidden;
+        }
+
+        .afl-success-heading {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .afl-success-heading span {
+            color: #0284c7;
+            font-size: 14px;
+            font-weight: 700;
+            letter-spacing: 1.5px;
+        }
+
+        .afl-success-heading h2 {
+            color: #172554;
+            font-size: 36px;
+            margin: 8px 0;
+        }
+
+        .afl-success-heading p {
+            color: #64748b;
+            font-size: 16px;
+        }
+
+        .afl-success-slider {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .afl-success-track {
+            display: flex;
+            justify-content: flex-start;
+            gap: 25px;
+            width: max-content;
+            padding: 10px 0 25px;
+            animation: aflPlacementScroll 34s linear infinite;
+            will-change: transform;
+        }
+
+        .afl-success-slider:hover .afl-success-track {
+            animation-play-state: paused;
+        }
+
+        @keyframes aflPlacementScroll {
+            from { transform: translateX(0); }
+            to { transform: translateX(calc(-50% - 12.5px)); }
+        }
+
+        .afl-success-card {
+            width: 280px;
+            min-width: 280px;
+            background: #f2f8fc;
+            border-radius: 28px;
+            padding: 24px 20px;
+            text-align: center;
+            box-sizing: border-box;
+            box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+        }
+
+        .afl-success-card .student-photo {
+            width: 115px !important;
+            height: 115px !important;
+            min-width: 115px !important;
+            min-height: 115px !important;
+            display: block !important;
+            margin: 0 auto 14px !important;
+            border-radius: 50% !important;
+            object-fit: cover !important;
+            object-position: center top !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            border: 4px solid #ffffff !important;
+            background: #ffffff !important;
+        }
+
+        .afl-success-card h3 {
+            font-size: 19px;
+            color: #111827;
+            margin: 6px 0 10px;
+            font-weight: 700;
+        }
+
+        .afl-success-card .company-logo {
+            width: 100px !important;
+            height: 40px !important;
+            object-fit: contain !important;
+            display: block !important;
+            margin: 0 auto 5px !important;
+            border: 0 !important;
+            border-radius: 0 !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            background: transparent !important;
+        }
+
+        .afl-success-card .student-role {
+            display: block;
+            color: #64748b;
+            font-size: 13px;
+            margin-top: 8px;
+        }
+
+        @media (max-width: 768px) {
+            .afl-success-heading h2 {
+                font-size: 28px;
+            }
+
+            .afl-success-track {
+                justify-content: flex-start;
+                overflow: visible;
+            }
+
+            .afl-success-card {
+                width: 230px;
+                min-width: 230px;
+            }
+
+            .afl-success-card .student-photo {
+                width: 95px !important;
+                height: 95px !important;
+                min-width: 95px !important;
+                min-height: 95px !important;
+            }
+        }
+
+
+
+        @media (prefers-reduced-motion: reduce) {
+            .afl-success-track {
+                animation: none;
+            }
+        }
+
+
+        /* ===== Digify Authorized Study Center ===== */
+        .digify-partner-section {
+            padding: 75px 0;
+            background: #fff;
+        }
+        .digify-partner-grid {
+            display: grid;
+            grid-template-columns: 1.05fr .8fr 1fr;
+            gap: 55px;
+            align-items: center;
+        }
+        .digify-eyebrow {
+            display: inline-block;
+            color: #0284c7;
+            font-size: 13px;
+            font-weight: 800;
+            letter-spacing: 1.4px;
+            margin-bottom: 10px;
+        }
+        .digify-partner-content h2 {
+            font-family: "Outfit", sans-serif;
+            color: #172554;
+            font-size: 35px;
+            line-height: 1.08;
+            margin: 0 0 8px;
+        }
+        .digify-partner-content h3 {
+            color: #0284c7;
+            font-size: 18px;
+            margin: 0 0 20px;
+        }
+        .digify-partner-content p {
+            color: #475569;
+            line-height: 1.75;
+            margin-bottom: 16px;
+        }
+        .digify-partner-content .digify-lead {
+            color: #111827;
+            font-weight: 700;
+        }
+        .digify-verify-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+            padding: 13px 19px;
+            border-radius: 7px;
+            background: #172554;
+            color: #fff;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        .digify-verify-btn:hover { background: #0284c7; color: #fff; }
+        .digify-brand-box { text-align: center; }
+        .digify-logo-placeholder {
+            width: 290px;
+            height: 290px;
+            max-width: 100%;
+            margin: 0 auto 15px;
+            border-radius: 50%;
+            border: 9px solid #dbeafe;
+            outline: 3px solid #1e4f73;
+            background: #f8fbff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+            padding: 25px;
+        }
+        .digify-logo-placeholder span {
+            font-family: "Outfit", sans-serif;
+            font-size: 49px;
+            font-weight: 800;
+            color: #17466c;
+            letter-spacing: 2px;
+        }
+        .digify-logo-placeholder small {
+            color: #475569;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+        .digify-brand-box > p {
+            color: #172554;
+            font-weight: 800;
+        }
+        .digify-benefit-block + .digify-benefit-block { margin-top: 35px; }
+        .digify-benefit-block h3 {
+            font-family: "Outfit", sans-serif;
+            color: #172554;
+            font-size: 26px;
+            margin: 0 0 17px;
+        }
+        .digify-benefit-block ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .digify-benefit-block li {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            margin: 13px 0;
+            color: #0284c7;
+            line-height: 1.5;
+        }
+        .digify-benefit-block li i {
+            color: #172554;
+            margin-top: 4px;
+        }
+        @media (max-width: 950px) {
+            .digify-partner-grid { grid-template-columns: 1fr; gap: 38px; }
+            .digify-partner-content, .digify-benefits { text-align: center; }
+            .digify-benefit-block li { justify-content: center; }
+            .digify-logo-placeholder { width: 240px; height: 240px; }
+        }
+
+    
+/* ===== Floating Google Rating + WhatsApp Buttons ===== */
+.afl-float-contact {
+    position: fixed;
+    left: 18px;
+    bottom: 18px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
+
+.afl-google-badge,
+.afl-whatsapp-badge {
+    text-decoration: none;
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.afl-google-badge:hover,
+.afl-whatsapp-badge:hover {
+    transform: translateY(-2px) scale(1.03);
+}
+
+.afl-google-badge {
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid #e5e7eb;
+    box-shadow: 0 8px 24px rgba(15,23,42,.18);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    position: relative;
+}
+
+.afl-google-badge::before {
+    content: "";
+    position: absolute;
+    inset: -3px;
+    border-radius: 50%;
+    padding: 3px;
+    background: conic-gradient(#4285F4 0 25%, #34A853 25% 50%, #FBBC05 50% 75%, #EA4335 75% 100%);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+
+.afl-google-badge .rating {
+    font-family: "Outfit", sans-serif;
+    font-size: 27px;
+    font-weight: 800;
+    color: #111827;
+    margin-bottom: 4px;
+}
+
+.afl-google-badge .stars {
+    font-size: 12px;
+    color: #f59e0b;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+
+.afl-google-badge .google-word {
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #4285F4;
+}
+
+.afl-whatsapp-badge {
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    background: #25D366;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 24px rgba(37,211,102,.35);
+    font-size: 31px;
+}
+
+@media (max-width: 600px) {
+    .afl-float-contact {
+        left: 10px;
+        bottom: 12px;
+        gap: 9px;
+    }
+    .afl-google-badge {
+        width: 78px;
+        height: 78px;
+    }
+    .afl-google-badge .rating { font-size: 23px; }
+    .afl-google-badge .stars { font-size: 10px; }
+    .afl-google-badge .google-word { font-size: 11px; }
+    .afl-whatsapp-badge {
+        width: 54px;
+        height: 54px;
+        font-size: 27px;
+    }
+}
+
+</style>
 </head>
 
 <body>
@@ -635,7 +1001,7 @@
             <div class="trust-divider"></div>
             <div class="trust-stat-item animate-up delay-1">
                 <i class="fa-solid fa-briefcase"></i>
-                <div><span class="trust-stat-number">100+</span><span class="trust-stat-label">Hiring Partners</span></div>
+                <div><span class="trust-stat-number">20+</span><span class="trust-stat-label">Hiring Partners</span></div>
             </div>
             <div class="trust-divider"></div>
             <div class="trust-stat-item animate-up delay-2">
@@ -755,6 +1121,200 @@
         </div>
     </div>
 </section>
+
+<!-- ===== DIGIFY AUTHORIZED STUDY CENTER ===== -->
+<section class="digify-partner-section">
+    <div class="container">
+        <div class="digify-partner-grid">
+
+            <div class="digify-partner-content">
+                <span class="digify-eyebrow">AUTHORIZED STUDY CENTER</span>
+                <h2>Digify Authorized Study Center</h2>
+                <h3>AFL Institute – Analytics Fusion Lab</h3>
+                <p class="digify-lead">
+                    Empowering learners with industry-focused training and certification opportunities.
+                </p>
+                <p>
+                    AFL Institute works with Digify Educational &amp; Technologies Foundation to support
+                    skill-focused learning, practical training and professional development for students.
+                </p>
+                <a href="https://www.digifygroup.com/" target="_blank" rel="noopener noreferrer"
+                   class="digify-verify-btn">
+                    Verify Our Study Center <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                </a>
+            </div>
+
+            <div class="digify-brand-box">
+                <div class="digify-logo-placeholder">
+                    <span>DIGIFY</span>
+                    <small>Educational &amp; Technologies Foundation</small>
+                </div>
+                <p>Authorized Study Center</p>
+            </div>
+
+            <div class="digify-benefits">
+                <div class="digify-benefit-block">
+                    <h3>Benefits for AFL Students</h3>
+                    <ul>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Certification opportunities through Digify.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Industry-focused skill development.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Practical and career-oriented learning.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Student and study center verification facility.</span></li>
+                    </ul>
+                </div>
+
+                <div class="digify-benefit-block">
+                    <h3>Career Benefits</h3>
+                    <ul>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Strengthen your professional profile.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Build practical and technical skills.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Improve interview readiness.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Develop job-oriented skills.</span></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- AFL Student Success Stories -->
+<section class="afl-success-section">
+    <div class="container">
+        <div class="afl-success-heading">
+    <span>STUDENT PLACEMENT HIGHLIGHTS</span>
+
+    <h2>Data Analytics &amp; IT Course Placement Success in Vadodara</h2>
+
+    <p>
+        Explore the career journeys of AFL Institute students who developed
+        job-ready skills through practical training, real-world projects,
+        interview preparation and placement assistance.
+    </p>
+</div>
+        <div class="afl-success-slider">
+            <div class="afl-success-track">
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/parth-valand.jpg" alt="Parth Valand - AFL Institute student success story" class="student-photo">
+                    <h3>Parth Valand</h3>
+                    <img src="assets/images/placements/odoo-logo.png" alt="Odoo" class="company-logo">
+                    <span class="student-role">Business Advisor</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/ashutosh.jpg" alt="Ashutosh - AFL Institute student success story" class="student-photo">
+                    <h3>Ashutosh</h3>
+                    <img src="assets/images/placements/niq.JPG" alt="NIQ" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/kushal.Jpg" alt="Kushal - AFL Institute student success story" class="student-photo">
+                    <h3>Kushal</h3>
+                    <img src="assets/images/placements/odoo-logo.png" alt="Odoo" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/pratik.Jpg" alt="Pratik - AFL Institute student success story" class="student-photo">
+                    <h3>Pratik</h3>
+                    <img src="assets/images/placements/civica.jpg" alt="Civica" class="company-logo">
+                    <span class="student-role">Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/janhavi.JPG" alt="Janhavi - AFL Institute student success story" class="student-photo">
+                    <h3>Janhavi</h3>
+                    <img src="assets/images/placements/stemmons.JPG" alt="Stemmons" class="company-logo">
+                    <span class="student-role">Sr Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/tushar.JPG" alt="Tushar - AFL Institute student success story" class="student-photo">
+                    <h3>Tushar</h3>
+                    <img src="assets/images/placements/tam-media-logo.png" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/rachit.JPG" alt="Rachit - AFL Institute student success story" class="student-photo">
+                    <h3>Rachit</h3>
+                    <img src="assets/images/placements/Numerator-logo.jpg" alt="Numerator" class="company-logo">
+                    <span class="student-role">SQL Developer</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/aditi-jethwa.jpg" alt="Aditi Jethwa - AFL Institute student success story" class="student-photo">
+                    <h3>Aditi Jethwa</h3>
+                    <img src="assets/images/placements/tam-media-logo.png" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+
+                <!-- Duplicate cards for seamless continuous scrolling -->
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/parth-valand.jpg" alt="Parth Valand - AFL Institute student success story" class="student-photo">
+                    <h3>Parth Valand</h3>
+                    <img src="assets/images/placements/odoo-logo.png" alt="Odoo" class="company-logo">
+                    <span class="student-role">Business Advisor</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/ashutosh.jpg" alt="Ashutosh - AFL Institute student success story" class="student-photo">
+                    <h3>Ashutosh</h3>
+                    <img src="assets/images/placements/niq.JPG" alt="NIQ" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/kushal.Jpg" alt="Kushal - AFL Institute student success story" class="student-photo">
+                    <h3>Kushal</h3>
+                    <img src="assets/images/placements/odoo-logo.png" alt="Odoo" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/pratik.Jpg" alt="pratik - AFL Institute student success story" class="student-photo">
+                    <h3>Pratik</h3>
+                    <img src="assets/images/placements/civica.jpg" alt="civica" class="company-logo">
+                    <span class="student-role">Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/janhavi.JPG" alt="Janhavi - AFL Institute student success story" class="student-photo">
+                    <h3>Janhavi</h3>
+                    <img src="assets/images/placements/stemmons.JPG" alt="Stemmons" class="company-logo">
+                    <span class="student-role">Sr Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/tushar.JPG" alt="Tushar - AFL Institute student success story" class="student-photo">
+                    <h3>Tushar</h3>
+                    <img src="assets/images/placements/tam-media-logo.png" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/rachit.JPG" alt="Rachit - AFL Institute student success story" class="student-photo">
+                    <h3>Rachit</h3>
+                    <img src="assets/images/placements/Numerator-logo.jpg" alt="Numerator" class="company-logo">
+                    <span class="student-role">SQL Developer</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img src="assets/images/placements/aditi-jethwa.jpg" alt="Aditi Jethwa - AFL Institute student success story" class="student-photo">
+                    <h3>Aditi Jethwa</h3>
+                    <img src="assets/images/placements/tam-media-logo.png" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- FAQ Section -->
 <section class="section-padding bg-light">
     <div class="container">
@@ -984,6 +1544,93 @@
     }
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.1/vanilla-tilt.min.js"></script>
+
+<!-- Floating Google Rating + WhatsApp -->
+<div class="afl-float-contact">
+    <div class="afl-google-badge"
+       aria-label="AFL Institute Google rating 4.9">
+        <span class="rating">4.9</span>
+        <span class="stars">★★★★★</span>
+        <span class="google-word">Google</span>
+    </div>
+
+    <a class="afl-whatsapp-badge"
+       href="https://wa.me/919054616214?text=Hi%2C%20I%20want%20to%20know%20more%20about%20AFL%20Institute."
+       target="_blank" rel="noopener noreferrer"
+       aria-label="Chat with AFL Institute on WhatsApp">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+</div>
+
+
+<style>
+/* Place Google badge on left side and WhatsApp badge on right side */
+.afl-float-contact {
+    position: static !important;
+    display: block !important;
+}
+
+.afl-google-badge {
+    position: fixed !important;
+    left: 18px !important;
+    right: auto !important;
+    bottom: 18px !important;
+    z-index: 9999 !important;
+}
+
+.afl-whatsapp-badge {
+    position: fixed !important;
+    right: 18px !important;
+    left: auto !important;
+    bottom: 18px !important;
+    z-index: 9999 !important;
+}
+
+@media (max-width: 600px) {
+    .afl-google-badge {
+        left: 10px !important;
+        bottom: 12px !important;
+    }
+
+    .afl-whatsapp-badge {
+        right: 10px !important;
+        bottom: 12px !important;
+    }
+}
+</style>
+
+
+<style>
+/* FINAL: Bigger Google Review badge only */
+.afl-google-badge {
+    width: 110px !important;
+    height: 110px !important;
+    min-width: 110px !important;
+    min-height: 110px !important;
+}
+.afl-google-badge .rating {
+    font-size: 32px !important;
+}
+.afl-google-badge .stars {
+    font-size: 14px !important;
+}
+.afl-google-badge .google-word {
+    font-size: 14px !important;
+}
+
+@media (max-width: 600px) {
+    .afl-google-badge {
+        width: 90px !important;
+        height: 90px !important;
+        min-width: 90px !important;
+        min-height: 90px !important;
+    }
+    .afl-google-badge .rating { font-size: 27px !important; }
+    .afl-google-badge .stars { font-size: 11px !important; }
+    .afl-google-badge .google-word { font-size: 12px !important; }
+}
+</style>
+
 </body>
 
 </html>
@@ -997,3 +1644,47 @@
 
 
 
+
+<style>
+/* Same size for Google Review and WhatsApp floating buttons */
+.afl-google-badge,
+.afl-whatsapp-badge {
+    width: 72px !important;
+    height: 72px !important;
+    min-width: 72px !important;
+    min-height: 72px !important;
+    box-sizing: border-box;
+}
+
+.afl-google-badge .rating {
+    font-size: 22px !important;
+    margin-bottom: 2px !important;
+}
+
+.afl-google-badge .stars {
+    font-size: 9px !important;
+    margin-bottom: 3px !important;
+}
+
+.afl-google-badge .google-word {
+    font-size: 10px !important;
+}
+
+.afl-whatsapp-badge {
+    font-size: 31px !important;
+}
+
+@media (max-width: 600px) {
+    .afl-google-badge,
+    .afl-whatsapp-badge {
+        width: 60px !important;
+        height: 60px !important;
+        min-width: 60px !important;
+        min-height: 60px !important;
+    }
+    .afl-google-badge .rating { font-size: 19px !important; }
+    .afl-google-badge .stars { font-size: 8px !important; }
+    .afl-google-badge .google-word { font-size: 9px !important; }
+    .afl-whatsapp-badge { font-size: 28px !important; }
+}
+</style>
