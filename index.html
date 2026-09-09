@@ -122,14 +122,70 @@
     <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
 
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" media="print" onload="this.media='all'" />
     <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" /></noscript>
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="assets/css/style.css?v=15">
+    
+<style id="afl-critical-css">
+:root{
+  --primary-color:#06b6d4;--primary-light:#0891b2;--secondary-color:#8b5cf6;
+  --text-dark:#f3f4f6;--text-white:#fff;--bg-light:#111827;
+  --font-primary:'Inter',Arial,sans-serif;--font-heading:'Outfit',Arial,sans-serif;
+  --gradient-primary:linear-gradient(135deg,#06b6d4 0%,#0891b2 100%);
+  --gradient-secondary:linear-gradient(135deg,#8b5cf6 0%,#7c3aed 100%);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:var(--font-primary);color:var(--text-dark);background:#111827;line-height:1.6;overflow-x:hidden}
+h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);color:#fff;font-weight:700}
+a{text-decoration:none;color:inherit}
+ul{list-style:none}
+img{max-width:100%;height:auto;display:block}
+.container{width:100%;max-width:1200px;margin:0 auto;padding:0 20px}
+.btn{display:inline-block;padding:12px 28px;border-radius:30px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;font-size:.9rem;cursor:pointer;border:0;outline:0}
+.btn-cta-primary,.btn-cta-demo{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 30px;border-radius:30px;color:#fff}
+.btn-cta-primary{background:var(--gradient-primary)}
+.btn-cta-demo{background:var(--gradient-secondary)}
+.hero{position:relative;height:auto;min-height:100vh;background:linear-gradient(135deg,#0B1120 0%,#111827 60%,#06b6d4 300%);overflow:hidden}
+.hero-slide{display:flex;align-items:center;min-height:100vh;width:100%;overflow:hidden}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(135deg,rgba(11,17,32,.97) 0%,rgba(17,24,39,.7) 60%,rgba(6,182,212,.2) 100%);z-index:1}
+.hero-split-container{display:flex;align-items:center;justify-content:space-between;gap:50px;position:relative;z-index:2;width:100%;max-width:1200px;margin:0 auto;padding:80px 20px 40px;height:100%}
+.hero-content{position:relative;z-index:2;color:#fff;flex:1;max-width:650px}
+.hero-badge{display:inline-block;padding:6px 16px;border-radius:20px;font-size:.82rem;font-weight:600;margin-bottom:12px}
+.hero-badge-vibrant{background:var(--gradient-secondary)!important;color:#fff!important;border:0!important}
+.hero-title{font-size:2.2rem;line-height:1.2;margin-bottom:12px;color:#fff}
+.hero-title span{color:var(--secondary-color)}
+.hero-subtitle{font-size:1rem;line-height:1.65;color:rgba(255,255,255,.9);max-width:720px}
+.hero-features-row{display:grid;grid-template-columns:repeat(2,auto);gap:10px;margin-top:12px;justify-content:start}
+.feature-item{display:flex;align-items:center;gap:8px;background:rgba(139,92,246,.1);border:1px solid rgba(139,92,246,.2);padding:7px 14px;border-radius:50px;white-space:nowrap}
+.feature-item i{font-size:1.1rem;color:var(--secondary-color)}
+.feature-item span{font-size:.8rem;font-weight:700;color:#fff}
+.hero-actions{display:flex;gap:14px;margin-top:16px;flex-wrap:wrap}
+@media(max-width:900px){
+  .hero-split-container{justify-content:center;padding-top:45px}
+  .hero-content{max-width:100%;text-align:center}
+  .hero-actions{justify-content:center}
+  .hero-features-row{justify-content:center}
+}
+@media(max-width:600px){
+  .hero{min-height:auto}
+  .hero-slide{min-height:calc(100vh - 72px)}
+  .hero-split-container{padding:35px 16px 28px}
+  .hero-title{font-size:1.85rem}
+  .hero-subtitle{font-size:.95rem}
+  .hero-features-row{grid-template-columns:1fr 1fr;width:100%;gap:8px}
+  .feature-item{justify-content:center;padding:7px 8px;white-space:normal}
+  .feature-item span{font-size:.72rem}
+  .btn-cta-primary,.btn-cta-demo{padding:12px 18px;font-size:.78rem}
+}
+</style>
+
+    <link rel="preload" as="style" href="assets/css/style.css?v=15" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="assets/css/style.css?v=15"></noscript>
 
     <style>
         /* AFL Premium Horizontal Header */
@@ -721,7 +777,7 @@
         <div class="container afl-navbar">
 
             <a href="index.html" class="afl-brand" aria-label="AFL Institute - Analytics Fusion Lab">
-                <img src="assets/images/logo.webp" alt="AFL Institute - Analytics Fusion Lab">
+                <img src="assets/images/logo.webp" width="58" height="58" fetchpriority="high" alt="AFL Institute - Analytics Fusion Lab">
                 <div class="afl-brand-text">
                     <strong>AFL Institute</strong>
                     <span>Analytics Fusion Lab</span>
