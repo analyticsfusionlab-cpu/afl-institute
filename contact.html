@@ -477,6 +477,76 @@ document.getElementById('waContactForm').addEventListener('submit', function(e) 
 });
 </script>
 
+<!-- AFL Institute Location Map -->
+<section class="afl-location-section" aria-labelledby="afl-location-title">
+    <div class="container">
+        <div class="map-heading">
+            <h2 id="afl-location-title">Visit AFL Institute in Sayajigunj, Vadodara</h2>
+            <p>
+                407, Helix Complex, Opposite Hotel Surya,<br>
+                Sayajigunj, Vadodara, Gujarat 390007
+            </p>
+        </div>
+
+        <div class="afl-map">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.1738046130413!2d73.18009387569491!3d22.30926564256962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fcf10fb8a7c6b%3A0xe84ae86ae1f1c9f8!2sAFL%20INSTITUTE!5e0!3m2!1sen!2sin!4v1788962179599!5m2!1sen!2sin"
+                title="AFL Institute location in Sayajigunj, Vadodara"
+                loading="lazy"
+                allowfullscreen
+                referrerpolicy="strict-origin-when-cross-origin">
+            </iframe>
+        </div>
+    </div>
+</section>
+
+<style>
+    .afl-location-section {
+        padding: 70px 0;
+        background: var(--bg-light);
+    }
+
+    .map-heading {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .map-heading h2 {
+        margin-bottom: 12px;
+        font-size: clamp(1.8rem, 4vw, 2.5rem);
+    }
+
+    .map-heading p {
+        color: var(--text-light);
+        line-height: 1.7;
+    }
+
+    .afl-map {
+        width: 100%;
+        overflow: hidden;
+        border: 1px solid rgba(6, 182, 212, 0.18);
+        border-radius: 16px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    }
+
+    .afl-map iframe {
+        display: block;
+        width: 100%;
+        height: 450px;
+        border: 0;
+    }
+
+    @media (max-width: 768px) {
+        .afl-location-section {
+            padding: 45px 0;
+        }
+
+        .afl-map iframe {
+            height: 320px;
+        }
+    }
+</style>
+
 <!-- Footer Section -->
 <footer class="main-footer">
     <div class="container">
@@ -607,7 +677,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </body>
 
 </html>
-
 
 
 
