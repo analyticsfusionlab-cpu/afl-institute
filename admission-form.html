@@ -207,9 +207,34 @@
 </footer>
 <script src="assets/js/main.js"></script>
 <script>
-document.getElementById('aflAdmissionForm').addEventListener('submit', function(e){
+document.getElementById('aflAdmissionForm').addEventListener('submit', async function(e){
   e.preventDefault();
-  alert('Form design is ready. Connect the Google Sheet submission endpoint before publishing live admissions.');
+
+  const form = e.currentTarget;
+  const button = form.querySelector('.adm-submit');
+  const originalText = button.innerHTML;
+
+  const data = Object.fromEntries(new FormData(form).entries());
+
+  button.disabled = true;
+  button.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Submitting...';
+
+  try {
+    await fetch('https://script.google.com/macros/s/AKfycbxp7expqv13AJLP--pbEYqROIHCCxOiOre8_GH6Qo3mDfoR_aegSOB1RExhKAUKWd6B/exec', {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify(data)
+    });
+
+    alert('Admission form submitted successfully. AFL Institute will verify your details and contact you.');
+    form.reset();
+  } catch (error) {
+    alert('Form could not be submitted. Please try again or contact AFL Institute at +91 90546 16214.');
+  } finally {
+    button.disabled = false;
+    button.innerHTML = originalText;
+  }
 });
 </script>
 </body>
