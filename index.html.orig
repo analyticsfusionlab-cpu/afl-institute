@@ -1,0 +1,1819 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Updated Title tags and standard SEO stuff -->
+    <title>IT Training Institute in Vadodara | AFL Institute</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/logo.webp" type="image/png">
+
+    <!-- Dynamic SEO Meta Tags -->
+        <meta name="description" content="Job-oriented IT training in Vadodara: Data Analytics, Data Science, AI/ML, AWS, Cyber Security, Digital Marketing and Graphic Design with placement support.">
+    
+
+    <!-- Open Graph / Social SEO -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aflinstitute.in/">
+    <meta property="og:title" content="IT Training Institute in Vadodara | AFL Institute">
+    <meta property="og:description" content="Job-oriented IT training in Vadodara: Data Analytics, Data Science, AI/ML, AWS, Cyber Security, Digital Marketing and Graphic Design with placement support.">
+    <meta property="og:image" content="https://aflinstitute.in/assets/images/logo.webp">
+
+ 
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://aflinstitute.in/" />
+
+<!-- AFL Institute Local SEO Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "AFL Institute - Analytics Fusion Lab",
+  "url": "https://aflinstitute.in/",
+  "logo": "https://aflinstitute.in/assets/images/logo.webp",
+  "telephone": "+91-9054616214",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "407, Helix Complex, Opposite Hotel Surya, Sayajigunj",
+    "addressLocality": "Vadodara",
+    "addressRegion": "Gujarat",
+    "postalCode": "390007",
+    "addressCountry": "IN"
+  },
+  "sameAs": [
+    "https://www.facebook.com/share/1DAAJi81hw/",
+    "https://www.instagram.com/analytics_fusion.lab",
+    "https://www.linkedin.com/in/analytics-fusion-lab-4167803a5"
+  ]
+}
+</script>
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which IT courses are available at AFL Institute in Vadodara?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AFL Institute offers job-oriented courses in Data Analytics, Data Science, AI & Machine Learning, AWS Cloud, Digital Marketing, Graphic Design and Cyber Security in Vadodara."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does AFL Institute provide practical training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. AFL Institute focuses on hands-on practical training, real-world projects and industry-oriented learning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does AFL Institute provide placement support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Students receive placement support along with resume building, interview preparation and career guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can beginners join the courses at AFL Institute?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Beginners, college students, graduates and working professionals can join courses based on their career goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are weekday and weekend batches available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AFL Institute offers flexible batch options, including weekday and weekend batches, subject to the current batch schedule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is AFL Institute located in Vadodara?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AFL Institute is located at 407, Helix Complex, Opposite Hotel Surya, Sayajigunj, Vadodara, Gujarat 390007."
+      }
+    }
+  ]
+}
+</script>
+<link rel="preload" as="image" href="assets/images/slider1-mobile.webp" type="image/webp" media="(max-width:600px)" fetchpriority="high">
+<link rel="preload" as="image" href="assets/images/slider1.webp" type="image/webp" media="(min-width:601px)" fetchpriority="high">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap"
+        rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
+
+    <!-- Font Awesome -->
+    <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
+
+
+    <!-- Custom CSS -->
+    
+<style id="afl-critical-css">
+:root{
+  --primary-color:#06b6d4;--primary-light:#0891b2;--secondary-color:#8b5cf6;
+  --text-dark:#f3f4f6;--text-white:#fff;--bg-light:#111827;
+  --font-primary:'Inter','Inter Fallback',Arial,sans-serif;--font-heading:'Outfit','Outfit Fallback',Arial,sans-serif;
+  --gradient-primary:linear-gradient(135deg,#06b6d4 0%,#0891b2 100%);
+  --gradient-secondary:linear-gradient(135deg,#8b5cf6 0%,#7c3aed 100%);
+}
+@font-face{font-family:"Inter Fallback";src:local("Arial");size-adjust:107%;ascent-override:90%;descent-override:22%;line-gap-override:0%}
+@font-face{font-family:"Outfit Fallback";src:local("Arial");size-adjust:101%;ascent-override:100%;descent-override:26%;line-gap-override:0%}
+.fa-solid,.fa-brands,.fa-regular{display:inline-block;min-width:1em;height:1em;line-height:1}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:var(--font-primary);color:var(--text-dark);background:#111827;line-height:1.6;overflow-x:hidden}
+h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);color:#fff;font-weight:700}
+a{text-decoration:none;color:inherit}
+ul{list-style:none}
+img{max-width:100%;height:auto;display:block}
+.container{width:100%;max-width:1200px;margin:0 auto;padding:0 20px}
+.btn{display:inline-block;padding:12px 28px;border-radius:30px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;font-size:.9rem;cursor:pointer;border:0;outline:0}
+.btn-cta-primary,.btn-cta-demo{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 30px;border-radius:30px;color:#fff}
+.btn-cta-primary{background:var(--gradient-primary)}
+.btn-cta-demo{background:var(--gradient-secondary)}
+.hero{position:relative;height:auto;min-height:100vh;background:linear-gradient(135deg,#0B1120 0%,#111827 60%,#06b6d4 300%);overflow:hidden}
+.hero-slide{display:flex;align-items:center;min-height:100vh;width:100%;overflow:hidden;background:url(assets/images/slider1-mobile.webp) center/cover no-repeat}
+@media(min-width:601px){.hero-slide{background-image:url(assets/images/slider1.webp)}}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(135deg,rgba(11,17,32,.97) 0%,rgba(17,24,39,.7) 60%,rgba(6,182,212,.2) 100%);z-index:1}
+.hero-split-container{display:flex;align-items:center;justify-content:space-between;gap:50px;position:relative;z-index:2;width:100%;max-width:1200px;margin:0 auto;padding:80px 20px 40px;height:100%}
+.hero-content{position:relative;z-index:2;color:#fff;flex:1;max-width:650px}
+.hero-badge{display:inline-block;padding:6px 16px;border-radius:20px;font-size:.82rem;font-weight:600;margin-bottom:12px}
+.hero-badge-vibrant{background:var(--gradient-secondary)!important;color:#fff!important;border:0!important}
+.hero-title{font-size:2.2rem;line-height:1.2;margin-bottom:12px;color:#fff}
+.hero-title span{color:var(--secondary-color)}
+.hero-subtitle{font-size:1rem;line-height:1.65;color:rgba(255,255,255,.9);max-width:720px}
+.hero-features-row{display:grid;grid-template-columns:repeat(2,auto);gap:10px;margin-top:12px;justify-content:start}
+.feature-item{display:flex;align-items:center;gap:8px;background:rgba(139,92,246,.1);border:1px solid rgba(139,92,246,.2);padding:7px 14px;border-radius:50px;white-space:nowrap}
+.feature-item i{font-size:1.1rem;color:var(--secondary-color)}
+.feature-item span{font-size:.8rem;font-weight:700;color:#fff}
+.hero-actions{display:flex;gap:14px;margin-top:16px;flex-wrap:wrap}
+@media(max-width:900px){
+  .hero-split-container{justify-content:center;padding-top:45px}
+  .hero-content{max-width:100%;text-align:center}
+  .hero-actions{justify-content:center}
+  .hero-features-row{justify-content:center}
+}
+@media(max-width:600px){
+  .hero{min-height:auto}
+  .hero-slide{min-height:calc(100vh - 72px)}
+  .hero-split-container{padding:35px 16px 28px}
+  .hero-title{font-size:1.85rem}
+  .hero-subtitle{font-size:.95rem}
+  .hero-features-row{grid-template-columns:1fr 1fr;width:100%;gap:8px}
+  .feature-item{justify-content:center;padding:7px 8px;white-space:normal}
+  .feature-item span{font-size:.72rem}
+  .btn-cta-primary,.btn-cta-demo{padding:12px 18px;font-size:.78rem}
+}
+</style>
+
+    <link rel="stylesheet" href="assets/css/style.css?v=16">
+
+    <style>
+        /* AFL Premium Horizontal Header */
+        .afl-header {
+            width: 100%;
+            background: #fff;
+            border-bottom: 1px solid #e8edf4;
+            box-shadow: 0 3px 15px rgba(15,23,42,.06);
+            position: relative;
+            z-index: 1000;
+        }
+
+        .afl-navbar {
+            min-height: 78px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 28px;
+        }
+
+        .afl-brand {
+            display: flex;
+            align-items: center;
+            gap: 11px;
+            text-decoration: none;
+            flex-shrink: 0;
+        }
+
+        .afl-brand img {
+            width: 58px;
+            height: 58px;
+            object-fit: contain;
+            border-radius: 50%;
+        }
+
+        .afl-brand-text {
+            display: flex;
+            flex-direction: column;
+            line-height: 1.08;
+        }
+
+        .afl-brand-text strong {
+            font-family: "Outfit", sans-serif;
+            font-size: 21px;
+            font-weight: 800;
+            color: #172554;
+            white-space: nowrap;
+        }
+
+        .afl-brand-text span {
+            font-family: "Inter", sans-serif;
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: .35px;
+            color: #0284c7;
+            margin-top: 4px;
+            white-space: nowrap;
+        }
+
+        .afl-nav {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 25px;
+            margin-left: auto;
+        }
+
+        .afl-nav .nav-item {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 29px 0;
+            color: #26335d;
+            text-decoration: none;
+            font-family: "Inter", sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            white-space: nowrap;
+            transition: color .25s ease;
+        }
+
+        .afl-nav .nav-item:hover,
+        .afl-nav .nav-item.active {
+            color: #0284c7;
+        }
+
+        .afl-nav .nav-item::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 20px;
+            width: 0;
+            height: 2px;
+            background: #0284c7;
+            transition: width .25s ease;
+        }
+
+        .afl-nav .nav-item:hover::after,
+        .afl-nav .nav-item.active::after {
+            width: 100%;
+        }
+
+        .nav-arrow {
+            font-size: 10px;
+            margin-left: 2px;
+        }
+
+        .afl-header-cta {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 44px;
+            padding: 0 19px;
+            border-radius: 5px;
+            background: #172554;
+            color: #fff !important;
+            text-decoration: none;
+            font-family: "Inter", sans-serif;
+            font-size: 13px;
+            font-weight: 700;
+            white-space: nowrap;
+            box-shadow: 0 5px 15px rgba(23,37,84,.15);
+            transition: transform .2s ease, background .2s ease;
+        }
+
+        .afl-header-cta:hover {
+            background: #0284c7;
+            transform: translateY(-1px);
+        }
+
+        /* Header CTA buttons stacked vertically */
+        .afl-header-cta-stack {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            flex-shrink: 0;
+        }
+
+        .afl-header-cta-stack .afl-header-cta {
+            min-height: 42px;
+            width: 100%;
+        }
+
+        .afl-header-cta.corporate-training-btn {
+            background: #0891b2;
+        }
+
+        .afl-header-cta.corporate-training-btn:hover {
+            background: #0e7490;
+        }
+
+        .afl-header .mobile-menu-btn {
+            display: none;
+            border: 0;
+            background: transparent;
+            color: #172554;
+            font-size: 25px;
+            cursor: pointer;
+            padding: 8px;
+        }
+
+        @media (max-width: 1100px) {
+            .afl-navbar { min-height: 72px; }
+
+            .afl-header .mobile-menu-btn {
+                display: block;
+                margin-left: auto;
+            }
+
+            .afl-nav {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 100%;
+                background: #fff;
+                padding: 15px 5% 22px;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 0;
+                border-top: 1px solid #e2e8f0;
+                box-shadow: 0 15px 25px rgba(15,23,42,.1);
+            }
+
+            .afl-nav.active { display: flex; }
+
+            .afl-nav .nav-item {
+                width: 100%;
+                padding: 14px 4px;
+                border-bottom: 1px solid #eef2f7;
+            }
+
+            .afl-nav .nav-item::after { display: none; }
+
+            .afl-header-cta-stack {
+                margin-top: 15px;
+                width: 100%;
+                gap: 10px;
+            }
+
+            .afl-header-cta {
+                margin-top: 0;
+                min-height: 48px;
+            }
+        }
+
+        @media (max-width: 500px) {
+            .afl-brand img {
+                width: 48px;
+                height: 48px;
+            }
+
+            .afl-brand-text strong { font-size: 17px; }
+            .afl-brand-text span { font-size: 9px; }
+        }
+
+        /* ===== AFL Student Success Stories ===== */
+        .afl-success-section {
+            padding: 70px 0;
+            background: #ffffff;
+            overflow: hidden;
+        }
+
+        .afl-success-heading {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .afl-success-heading span {
+            color: #0284c7;
+            font-size: 14px;
+            font-weight: 700;
+            letter-spacing: 1.5px;
+        }
+
+        .afl-success-heading h2 {
+            color: #172554;
+            font-size: 36px;
+            margin: 8px 0;
+        }
+
+        .afl-success-heading p {
+            color: #64748b;
+            font-size: 16px;
+        }
+
+        .afl-success-slider {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .afl-success-track {
+            display: flex;
+            justify-content: flex-start;
+            gap: 25px;
+            width: max-content;
+            padding: 10px 0 25px;
+            animation: aflPlacementScroll 34s linear infinite;
+            will-change: transform;
+        }
+
+        .afl-success-slider:hover .afl-success-track {
+            animation-play-state: paused;
+        }
+
+        @keyframes aflPlacementScroll {
+            from { transform: translateX(0); }
+            to { transform: translateX(calc(-50% - 12.5px)); }
+        }
+
+        .afl-success-card {
+            width: 280px;
+            min-width: 280px;
+            background: #f2f8fc;
+            border-radius: 28px;
+            padding: 24px 20px;
+            text-align: center;
+            box-sizing: border-box;
+            box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+        }
+
+        .afl-success-card .student-photo {
+            width: 115px !important;
+            height: 115px !important;
+            min-width: 115px !important;
+            min-height: 115px !important;
+            display: block !important;
+            margin: 0 auto 14px !important;
+            border-radius: 50% !important;
+            object-fit: cover !important;
+            object-position: center top !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            border: 4px solid #ffffff !important;
+            background: #ffffff !important;
+        }
+
+        .afl-success-card h3 {
+            font-size: 19px;
+            color: #111827;
+            margin: 6px 0 10px;
+            font-weight: 700;
+        }
+
+        .afl-success-card .company-logo {
+            width: 100px !important;
+            height: 40px !important;
+            object-fit: contain !important;
+            display: block !important;
+            margin: 0 auto 5px !important;
+            border: 0 !important;
+            border-radius: 0 !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            background: transparent !important;
+        }
+
+        .afl-success-card .student-role {
+            display: block;
+            color: #64748b;
+            font-size: 13px;
+            margin-top: 8px;
+        }
+
+        @media (max-width: 768px) {
+            .afl-success-heading h2 {
+                font-size: 28px;
+            }
+
+            .afl-success-track {
+                justify-content: flex-start;
+                overflow: visible;
+            }
+
+            .afl-success-card {
+                width: 230px;
+                min-width: 230px;
+            }
+
+            .afl-success-card .student-photo {
+                width: 95px !important;
+                height: 95px !important;
+                min-width: 95px !important;
+                min-height: 95px !important;
+            }
+        }
+
+
+
+        @media (prefers-reduced-motion: reduce) {
+            .afl-success-track {
+                animation: none;
+            }
+        }
+
+
+        /* ===== Digify Authorized Study Center ===== */
+        .digify-partner-section {
+            padding: 75px 0;
+            background: #fff;
+        }
+        .digify-partner-grid {
+            display: grid;
+            grid-template-columns: 1.05fr .8fr 1fr;
+            gap: 55px;
+            align-items: center;
+        }
+        .digify-eyebrow {
+            display: inline-block;
+            color: #0284c7;
+            font-size: 13px;
+            font-weight: 800;
+            letter-spacing: 1.4px;
+            margin-bottom: 10px;
+        }
+        .digify-partner-content h2 {
+            font-family: "Outfit", sans-serif;
+            color: #172554;
+            font-size: 35px;
+            line-height: 1.08;
+            margin: 0 0 8px;
+        }
+        .digify-partner-content h3 {
+            color: #0284c7;
+            font-size: 18px;
+            margin: 0 0 20px;
+        }
+        .digify-partner-content p {
+            color: #475569;
+            line-height: 1.75;
+            margin-bottom: 16px;
+        }
+        .digify-partner-content .digify-lead {
+            color: #111827;
+            font-weight: 700;
+        }
+        .digify-verify-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+            padding: 13px 19px;
+            border-radius: 7px;
+            background: #172554;
+            color: #fff;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        .digify-verify-btn:hover { background: #0284c7; color: #fff; }
+        .digify-brand-box { text-align: center; }
+        .digify-logo-placeholder {
+            width: 290px;
+            height: 290px;
+            max-width: 100%;
+            margin: 0 auto 15px;
+            border-radius: 50%;
+            border: 9px solid #dbeafe;
+            outline: 3px solid #1e4f73;
+            background: #f8fbff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+            padding: 25px;
+        }
+        .digify-logo-placeholder span {
+            font-family: "Outfit", sans-serif;
+            font-size: 49px;
+            font-weight: 800;
+            color: #17466c;
+            letter-spacing: 2px;
+        }
+        .digify-logo-placeholder small {
+            color: #475569;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+        .digify-brand-box > p {
+            color: #172554;
+            font-weight: 800;
+        }
+        .digify-benefit-block + .digify-benefit-block { margin-top: 35px; }
+        .digify-benefit-block h3 {
+            font-family: "Outfit", sans-serif;
+            color: #172554;
+            font-size: 26px;
+            margin: 0 0 17px;
+        }
+        .digify-benefit-block ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .digify-benefit-block li {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            margin: 13px 0;
+            color: #0284c7;
+            line-height: 1.5;
+        }
+        .digify-benefit-block li i {
+            color: #172554;
+            margin-top: 4px;
+        }
+        @media (max-width: 950px) {
+            .digify-partner-grid { grid-template-columns: 1fr; gap: 38px; }
+            .digify-partner-content, .digify-benefits { text-align: center; }
+            .digify-benefit-block li { justify-content: center; }
+            .digify-logo-placeholder { width: 240px; height: 240px; }
+        }
+
+    
+/* ===== Floating Google Rating + WhatsApp Buttons ===== */
+.afl-float-contact {
+    position: fixed;
+    left: 18px;
+    bottom: 18px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
+
+.afl-google-badge,
+.afl-whatsapp-badge {
+    text-decoration: none;
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.afl-google-badge:hover,
+.afl-whatsapp-badge:hover {
+    transform: translateY(-2px) scale(1.03);
+}
+
+.afl-google-badge {
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid #e5e7eb;
+    box-shadow: 0 8px 24px rgba(15,23,42,.18);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    position: relative;
+}
+
+.afl-google-badge::before {
+    content: "";
+    position: absolute;
+    inset: -3px;
+    border-radius: 50%;
+    padding: 3px;
+    background: conic-gradient(#4285F4 0 25%, #34A853 25% 50%, #FBBC05 50% 75%, #EA4335 75% 100%);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+
+.afl-google-badge .rating {
+    font-family: "Outfit", sans-serif;
+    font-size: 27px;
+    font-weight: 800;
+    color: #111827;
+    margin-bottom: 4px;
+}
+
+.afl-google-badge .stars {
+    font-size: 12px;
+    color: #f59e0b;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+
+.afl-google-badge .google-word {
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #4285F4;
+}
+
+.afl-whatsapp-badge {
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    background: #25D366;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 24px rgba(37,211,102,.35);
+    font-size: 31px;
+}
+
+@media (max-width: 600px) {
+    .afl-float-contact {
+        left: 10px;
+        bottom: 12px;
+        gap: 9px;
+    }
+    .afl-google-badge {
+        width: 78px;
+        height: 78px;
+    }
+    .afl-google-badge .rating { font-size: 23px; }
+    .afl-google-badge .stars { font-size: 10px; }
+    .afl-google-badge .google-word { font-size: 11px; }
+    .afl-whatsapp-badge {
+        width: 54px;
+        height: 54px;
+        font-size: 27px;
+    }
+}
+
+</style>
+</head>
+
+<body>
+<!-- AFL Premium Horizontal Header -->
+    <header class="main-header afl-header" id="header">
+        <div class="container afl-navbar">
+
+            <a href="index.html" class="afl-brand" aria-label="AFL Institute - Analytics Fusion Lab">
+                <img src="assets/images/logo-160.webp" width="58" height="58" fetchpriority="high" alt="AFL Institute - Analytics Fusion Lab">
+                <div class="afl-brand-text">
+                    <strong>AFL Institute</strong>
+                    <span>Analytics Fusion Lab</span>
+                </div>
+            </a>
+
+            <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Open navigation" type="button">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <nav class="nav-menu afl-nav" id="navMenu">
+                <a href="index.html" class="nav-item active">Home</a>
+                <a href="about.html" class="nav-item">About Us</a>
+                <a href="courses.html" class="nav-item">
+                    Courses <i class="fa-solid fa-chevron-down nav-arrow"></i>
+                </a>
+                <a href="hire-afl-talent.html" class="nav-item">Hire AFL Talent</a>
+                <a href="join-afl-team.html" class="nav-item">Join AFL Team</a>
+                <a href="syllabus.html" class="nav-item">Syllabus</a>
+                <a href="contact.html" class="nav-item">Contact</a>
+                <div class="afl-header-cta-stack">
+                    <a href="contact.html" class="afl-header-cta">FREE Career Counselling</a>
+                    <a href="corporate-training-vadodara.html" class="afl-header-cta corporate-training-btn">
+                        Corporate Training
+                    </a>
+                    <a href="remote-it-job-support.html" class="afl-header-cta corporate-training-btn">
+                        Remote IT Support
+                    </a>
+                </div>
+            </nav>
+
+        </div>
+    </header>
+<main id="main-content">
+<!-- Static Hero Section -->
+<section class="hero static-hero">
+    <div class="hero-slide">
+        <div class="hero-overlay"></div>
+        <div class="container hero-split-container">
+            <div class="hero-content animate-up">
+                <span class="hero-badge hero-badge-vibrant">
+                    100% Placement Support | 4-6 Months Certification
+                </span>
+                <h1 class="hero-title animate-up delay-1">
+    Become <span>Job-Ready</span> with IT Courses in Vadodara
+</h1>
+<p class="hero-subtitle animate-up delay-2">
+    Learn Data Analytics, Data Science, AI/ML, Digital Marketing, AWS, Graphic Design and Cyber Security with practical training, real-world projects and placement support at AFL Institute in Vadodara.
+</p>
+
+                <!-- Feature Highlights Row -->
+                <div class="hero-features-row animate-up delay-3">
+                    <div class="feature-item"><i class="fa-solid fa-bullseye"></i><span>Hands-on Projects</span></div>
+                    <div class="feature-item"><i class="fa-solid fa-file-invoice"></i><span>Resume Building</span></div>
+                    <div class="feature-item"><i class="fa-solid fa-user-tie"></i><span>Interview Preparation</span></div>
+                    <div class="feature-item"><i class="fa-solid fa-handshake-angle"></i><span>Placement Support</span></div>
+                </div>
+
+                <div class="hero-actions animate-up delay-3">
+                    <a href="contact.html" class="btn btn-cta-primary"><i class="fa-solid fa-bolt"></i> Join Now</a>
+                    <a href="https://wa.me/919054616214?text=Hi%2C%20I%20want%20to%20book%20a%20Free%20Demo%20class." target="_blank" rel="noopener noreferrer" class="btn btn-cta-demo"><i class="fa-solid fa-calendar-check"></i> Book Free Demo</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+        <!-- Core Programs Section -->
+<section class="section-padding bg-light">
+    <div class="container">
+
+        <div style="text-align:center;">
+           <h2 class="section-title">
+    Job-Oriented IT Courses in Vadodara
+</h2>
+        </div>
+
+        <p class="section-subtitle">
+    Explore industry-focused courses in Data Analytics, Data Science, AI/ML, AWS Cloud, Digital Marketing, Graphic Design and Cyber Security at AFL Institute in Vadodara. Learn through practical training, real-world projects and career-focused guidance.
+</p>
+
+
+        <div class="features-grid">
+
+            <!-- 1. Data Analytics -->
+            <div class="feature-card animate-up"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-solid fa-chart-bar"></i>
+                </div>
+
+                <h3 class="feature-title">Data Analytics Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Master Excel, SQL, Power BI and Python to turn raw data
+                    into powerful business insights and reports.
+                </p>
+
+                <a href="data-analytics-course-vadodara.html"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+
+            <!-- 2. Data Science -->
+            <div class="feature-card animate-up delay-1"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-solid fa-chart-pie"></i>
+                </div>
+
+              <h3 class="feature-title">Data Science Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Learn Python, Statistics, Machine Learning and
+                    data visualization for advanced analytical solutions.
+                </p>
+
+                <a href="data-science-course-vadodara.html"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+
+            <!-- 3. AI / ML -->
+            <div class="feature-card animate-up delay-2"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-solid fa-brain"></i>
+                </div>
+
+                <h3 class="feature-title">AI &amp; Machine Learning Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Dive into Artificial Intelligence and Machine Learning,
+                    predictive modeling and intelligent solutions.
+                </p>
+
+                <a href="ai-ml-course-vadodara.html"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+
+            <!-- 4. AWS Cloud -->
+            <div class="feature-card animate-up"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-brands fa-aws"></i>
+                </div>
+
+                <h3 class="feature-title">AWS Cloud Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Learn cloud infrastructure, deployment,
+                    security and modern AWS services.
+                </p>
+
+                <a href="aws-cloud-course-vadodara.html"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+
+            <!-- 5. Digital Marketing -->
+            <div class="feature-card animate-up delay-1"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-solid fa-bullhorn"></i>
+                </div>
+
+                <h3 class="feature-title">Digital Marketing Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Learn SEO, Social Media Marketing, Meta Ads,
+                    Google Ads, content strategy and campaign analytics.
+                </p>
+
+                <a href="digital-marketing-course-vadodara.html"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+
+            <!-- 6. Graphic Design -->
+            <div class="feature-card animate-up delay-2"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-solid fa-pen-ruler"></i>
+                </div>
+
+               <h3 class="feature-title">Graphic Design Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Build creative design skills using Photoshop,
+                    Illustrator, Canva, branding and visual communication.
+                </p>
+
+                <a href="graphic-design-course-vadodara.html"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+            <!-- 7. Cyber Security -->
+            <div class="feature-card animate-up"
+                 data-tilt
+                 data-tilt-glare="true"
+                 data-tilt-max-glare="0.2"
+                 data-tilt-scale="1.05">
+
+                <div class="feature-icon">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+
+                <h3 class="feature-title">Cyber Security Course in Vadodara</h3>
+
+                <p class="feature-desc">
+                    Learn networking, Linux, ethical hacking fundamentals, web security,
+                    vulnerability assessment, SOC, SIEM and incident response.
+                </p>
+
+                <a href="cyber-security-course-vadodara/"
+                   class="feature-link">
+                    View Details
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+
+<!-- ===== STRONG CTA BANNER ===== -->
+<section class="cta-banner-section">
+    <div class="cta-banner-bg"></div>
+    <div class="container" style="position:relative;z-index:2;">
+        <div class="cta-banner-grid">
+            <div class="cta-banner-card animate-up">
+                <div class="cta-banner-icon" style="background:linear-gradient(135deg,#06b6d4,#0891b2);"><i class="fa-solid fa-bolt"></i></div>
+                <div class="cta-banner-text"><h3>Ready to Start?</h3><p>Seats are filling fast. Secure your spot in the next batch now!</p></div>
+                <a href="contact.html" class="btn btn-cta-primary"><i class="fa-solid fa-bolt"></i> Join Now</a>
+            </div>
+            <div class="cta-banner-card animate-up delay-1">
+                <div class="cta-banner-icon" style="background:linear-gradient(135deg,#8b5cf6,#7c3aed);"><i class="fa-solid fa-calendar-check"></i></div>
+                <div class="cta-banner-text"><h3>Try Before You Enroll</h3><p>Attend a FREE demo class and experience our teaching quality firsthand!</p></div>
+                <a href="https://wa.me/919054616214?text=Hi%2C%20I%20want%20to%20book%20a%20Free%20Demo%20class." target="_blank" class="btn btn-cta-demo"><i class="fa-solid fa-calendar-check"></i> Book Free Demo</a>
+            </div>
+            <div class="cta-banner-card animate-up delay-2">
+                <div class="cta-banner-icon" style="background:linear-gradient(135deg,#25d366,#128c7e);"><i class="fa-brands fa-whatsapp"></i></div>
+                <div class="cta-banner-text"><h3>Have Questions?</h3><p>Talk to our expert counselors instantly via Call or WhatsApp!</p></div>
+                <a href="https://wa.me/919054616214" target="_blank" class="btn btn-cta-wa"><i class="fa-brands fa-whatsapp"></i> Call / WhatsApp</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== TRUST ELEMENTS BAR ===== -->
+<section class="trust-bar-section">
+    <div class="container">
+        <p class="trust-bar-label">Trusted by Students &amp; Industry</p>
+        <div class="trust-bar-grid">
+            <div class="trust-stat-item animate-up">
+                <i class="fa-solid fa-users"></i>
+                <div><span class="trust-stat-number">1000+</span><span class="trust-stat-label">Students Trained</span></div>
+            </div>
+            <div class="trust-divider"></div>
+            <div class="trust-stat-item animate-up delay-1">
+                <i class="fa-solid fa-briefcase"></i>
+                <div><span class="trust-stat-number">20+</span><span class="trust-stat-label">Hiring Partners</span></div>
+            </div>
+            <div class="trust-divider"></div>
+            <div class="trust-stat-item animate-up delay-2">
+                <i class="fa-solid fa-star"></i>
+                <div><span class="trust-stat-number">4.9/5</span><span class="trust-stat-label">Google Rating</span></div>
+            </div>
+            <div class="trust-divider"></div>
+            <div class="trust-stat-item animate-up delay-3">
+                <i class="fa-solid fa-trophy"></i>
+                <div><span class="trust-stat-number">8+</span><span class="trust-stat-label">Years Experience</span></div>
+            </div>
+            <div class="trust-divider"></div>
+            <div class="trust-stat-item animate-up">
+                <i class="fa-solid fa-circle-check"></i>
+                <div><span class="trust-stat-number">100%</span><span class="trust-stat-label">Placement Support</span></div>
+            </div>
+        </div>
+        <!-- Trust Badges Row -->
+        <div class="trust-badges-row animate-up delay-1">
+            <div class="trust-badge"><i class="fa-solid fa-shield-halved"></i> ISO Certified Institute</div>
+            <div class="trust-badge"><i class="fa-solid fa-award"></i> Award Winning Faculty</div>
+            <div class="trust-badge"><i class="fa-solid fa-hand-holding-heart"></i> No-Cost EMI Available</div>
+            <div class="trust-badge"><i class="fa-solid fa-rotate-left"></i> Money-Back Guarantee*</div>
+            <div class="trust-badge"><i class="fa-solid fa-headset"></i> Lifetime Support</div>
+        </div>
+    </div>
+</section>
+<!-- Why Choose Us Section (Weltec Style) -->
+<section class="section-padding bg-light">
+    <div class="container text-center">
+        <h2 class="section-title">Why Choose Analytics Fusion Lab Institute?</h2>
+        <p style="color: var(--text-light); max-width: 700px; margin: 0 auto; font-size: 1.1rem;">We go beyond standard teaching methodologies to provide an immersive, hands-on learning experience designed by leading industry professionals.</p>
+
+        <div class="weltec-features-grid">
+            
+            <!-- Feature 1 -->
+            <div class="weltec-feature-card animate-up" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-graduation-cap"></i>
+                </div>
+                <h3>Learn from Industry Experts</h3>
+                <p>Train under highly experienced IT professionals who bring real-world industry insights directly into the classroom.</p>
+            </div>
+
+            <!-- Feature 2 -->
+            <div class="weltec-feature-card animate-up delay-1" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-laptop-code"></i>
+                </div>
+                <h3>Real-World Practical Training</h3>
+                <p>Shift from theory to practice with our intensive, hands-on training approach focused on real-world coding challenges.</p>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="weltec-feature-card animate-up delay-2" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-chart-line"></i>
+                </div>
+                <h3>Master In-Demand Skills</h3>
+                <p>Equip yourself with the most sought-after tech stacks in Data Science, AI, Machine Learning, and Cloud Computing.</p>
+            </div>
+
+            <!-- Feature 4 -->
+            <div class="weltec-feature-card animate-up align-center" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-book-open"></i>
+                </div>
+                <h3>Career-Focused Curriculum</h3>
+                <p>Our syllabus is continuously updated in partnership with tech companies to ensure exact alignment with industry needs.</p>
+            </div>
+
+            <!-- Feature 5 -->
+            <div class="weltec-feature-card animate-up delay-1" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-user-tie"></i>
+                </div>
+                <h3>Mock Interviews &amp; Guidance</h3>
+                <p>Extensive interview preparation, resume building, and personality grooming sessions to help you clear any corporate interview.</p>
+            </div>
+
+            <!-- Feature 6 -->
+            <div class="weltec-feature-card animate-up delay-2" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-handshake-angle"></i>
+                </div>
+                <h3>Dedicated Placement Support</h3>
+                <p>We provide 100% placement support and connect you to our exclusive network of top IT hiring partners.</p>
+            </div>
+
+            <!-- Feature 7 -->
+            <div class="weltec-feature-card animate-up" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-rocket"></i>
+                </div>
+                <h3>Work on Real Projects</h3>
+                <p>Build a stunning professional portfolio by developing live projects from scratch under mentor guidance.</p>
+            </div>
+
+            <!-- Feature 8 -->
+            <div class="weltec-feature-card animate-up delay-1" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-regular fa-clock"></i>
+                </div>
+                <h3>Flexible Batch Options</h3>
+                <p>We offer weekday, weekend, and evening batches to perfectly suit the schedules of students and working professionals.</p>
+            </div>
+
+            <!-- Feature 9 -->
+            <div class="weltec-feature-card animate-up delay-2" data-tilt data-tilt-glare="true" data-tilt-max-glare="0.2" data-tilt-scale="1.05">
+                <div class="weltec-icon-box">
+                    <i class="fa-solid fa-wallet"></i>
+                </div>
+                <h3>Easy EMI Payment Options</h3>
+                <p>High-quality education should be accessible to all. We offer hassle-free, no-cost EMI options for complete peace of mind.</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- ===== DIGIFY AUTHORIZED STUDY CENTER ===== -->
+<section class="digify-partner-section">
+    <div class="container">
+        <div class="digify-partner-grid">
+
+            <div class="digify-partner-content">
+                <span class="digify-eyebrow">AUTHORIZED STUDY CENTER</span>
+                <h2>Digify Authorized Study Center</h2>
+                <h3>AFL Institute – Analytics Fusion Lab</h3>
+                <p class="digify-lead">
+                    Empowering learners with industry-focused training and certification opportunities.
+                </p>
+                <p>
+                    AFL Institute works with Digify Educational &amp; Technologies Foundation to support
+                    skill-focused learning, practical training and professional development for students.
+                </p>
+                <a href="https://www.digifygroup.com/" target="_blank" rel="noopener noreferrer"
+                   class="digify-verify-btn">
+                    Verify Our Study Center <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                </a>
+            </div>
+
+            <div class="digify-brand-box">
+                <div class="digify-logo-placeholder">
+                    <span>DIGIFY</span>
+                    <small>Educational &amp; Technologies Foundation</small>
+                </div>
+                <p>Authorized Study Center</p>
+            </div>
+
+            <div class="digify-benefits">
+                <div class="digify-benefit-block">
+                    <h3>Benefits for AFL Students</h3>
+                    <ul>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Certification opportunities through Digify.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Industry-focused skill development.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Practical and career-oriented learning.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Student and study center verification facility.</span></li>
+                    </ul>
+                </div>
+
+                <div class="digify-benefit-block">
+                    <h3>Career Benefits</h3>
+                    <ul>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Strengthen your professional profile.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Build practical and technical skills.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Improve interview readiness.</span></li>
+                        <li><i class="fa-solid fa-circle-check"></i><span>Develop job-oriented skills.</span></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- AFL Student Success Stories -->
+<section class="afl-success-section">
+    <div class="container">
+        <div class="afl-success-heading">
+    <span>STUDENT PLACEMENT HIGHLIGHTS</span>
+
+    <h2>Data Analytics &amp; IT Course Placement Success in Vadodara</h2>
+
+    <p>
+        Explore the career journeys of AFL Institute students who developed
+        job-ready skills through practical training, real-world projects,
+        interview preparation and placement support.
+    </p>
+</div>
+        <div class="afl-success-slider">
+            <div class="afl-success-track">
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/parth-valand.webp" alt="Parth Valand - AFL Institute student success story" class="student-photo">
+                    <h3>Parth Valand</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/odoo-logo.webp" alt="Odoo" class="company-logo">
+                    <span class="student-role">Business Advisor</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/ashutosh.webp" alt="Ashutosh - AFL Institute student success story" class="student-photo">
+                    <h3>Ashutosh</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/niq.webp" alt="NIQ" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/kushal.webp" alt="Kushal - AFL Institute student success story" class="student-photo">
+                    <h3>Kushal</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/odoo-logo.webp" alt="Odoo" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/pratik.webp" alt="Pratik - AFL Institute student success story" class="student-photo">
+                    <h3>Pratik</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/civica.webp" alt="Civica" class="company-logo">
+                    <span class="student-role">Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/janhavi.webp" alt="Janhavi - AFL Institute student success story" class="student-photo">
+                    <h3>Janhavi</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/stemmons.webp" alt="Stemmons" class="company-logo">
+                    <span class="student-role">Sr Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/tushar.webp" alt="Tushar - AFL Institute student success story" class="student-photo">
+                    <h3>Tushar</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/tam-media-logo.webp" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/rachit.webp" alt="Rachit - AFL Institute student success story" class="student-photo">
+                    <h3>Rachit</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/numerator-logo.webp" alt="Numerator" class="company-logo">
+                    <span class="student-role">SQL Developer</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/aditi-jethwa.webp" alt="Aditi Jethwa - AFL Institute student success story" class="student-photo">
+                    <h3>Aditi Jethwa</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/tam-media-logo.webp" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+
+                <!-- Duplicate cards for seamless continuous scrolling -->
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/parth-valand.webp" alt="Parth Valand - AFL Institute student success story" class="student-photo">
+                    <h3>Parth Valand</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/odoo-logo.webp" alt="Odoo" class="company-logo">
+                    <span class="student-role">Business Advisor</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/ashutosh.webp" alt="Ashutosh - AFL Institute student success story" class="student-photo">
+                    <h3>Ashutosh</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/niq.webp" alt="NIQ" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/kushal.webp" alt="Kushal - AFL Institute student success story" class="student-photo">
+                    <h3>Kushal</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/odoo-logo.webp" alt="Odoo" class="company-logo">
+                    <span class="student-role">Operation Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/pratik.webp" alt="pratik - AFL Institute student success story" class="student-photo">
+                    <h3>Pratik</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/civica.webp" alt="civica" class="company-logo">
+                    <span class="student-role">Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/janhavi.webp" alt="Janhavi - AFL Institute student success story" class="student-photo">
+                    <h3>Janhavi</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/stemmons.webp" alt="Stemmons" class="company-logo">
+                    <span class="student-role">Sr Data Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/tushar.webp" alt="Tushar - AFL Institute student success story" class="student-photo">
+                    <h3>Tushar</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/tam-media-logo.webp" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/rachit.webp" alt="Rachit - AFL Institute student success story" class="student-photo">
+                    <h3>Rachit</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/numerator-logo.webp" alt="Numerator" class="company-logo">
+                    <span class="student-role">SQL Developer</span>
+                </div>
+
+                <div class="afl-success-card">
+                    <img width="115" height="115" loading="lazy" decoding="async" src="assets/images/placements/aditi-jethwa.webp" alt="Aditi Jethwa - AFL Institute student success story" class="student-photo">
+                    <h3>Aditi Jethwa</h3>
+                    <img width="100" height="40" loading="lazy" decoding="async" src="assets/images/placements/tam-media-logo.webp" alt="TAM Media Research" class="company-logo">
+                    <span class="student-role">Content Analyst</span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ Section -->
+<section class="section-padding bg-light">
+    <div class="container">
+        <div style="text-align:center;">
+            <h2 class="section-title">Frequently Asked Questions</h2>
+        </div>
+
+        <div style="max-width:900px; margin:40px auto 0;">
+
+            <h3>Which IT courses are available at AFL Institute in Vadodara?</h3>
+            <p>
+                AFL Institute offers job-oriented courses in Data Analytics,
+                Data Science, AI & Machine Learning, AWS Cloud,
+                Digital Marketing, Graphic Design and Cyber Security in Vadodara.
+            </p>
+
+            <h3>Does AFL Institute provide practical training?</h3>
+            <p>
+                Yes. AFL Institute focuses on hands-on practical training,
+                real-world projects and industry-oriented learning.
+            </p>
+
+            <h3>Does AFL Institute provide placement support?</h3>
+            <p>
+                Yes. Students receive placement support along with resume
+                building, interview preparation and career guidance.
+            </p>
+
+            <h3>Can beginners join the courses at AFL Institute?</h3>
+            <p>
+                Yes. Beginners, college students, graduates and working
+                professionals can join courses based on their career goals.
+            </p>
+
+            <h3>Are weekday and weekend batches available?</h3>
+            <p>
+                AFL Institute offers flexible batch options, including weekday
+                and weekend batches, subject to the current batch schedule.
+            </p>
+
+            <h3>Where is AFL Institute located in Vadodara?</h3>
+            <p>
+                AFL Institute is located at 407, Helix Complex, Opposite Hotel
+                Surya, Sayajigunj, Vadodara, Gujarat 390007.
+            </p>
+
+        </div>
+    </div>
+</section>
+<!-- Local SEO Section -->
+<section class="section-padding">
+    <div class="container">
+        <div style="max-width:900px; margin:0 auto; text-align:center;">
+
+            <h2 class="section-title">
+                IT Training Institute in Sayajigunj, Vadodara
+            </h2>
+
+            <p style="font-size:1.05rem; line-height:1.8; color:var(--text-light);">
+                AFL Institute - Analytics Fusion Lab offers practical and career-focused
+                IT training in Sayajigunj, Vadodara. Students can learn Data Analytics,
+                Data Science, AI &amp; Machine Learning, AWS Cloud, Digital Marketing,
+                Graphic Design and Cyber Security through hands-on training, real-world projects,
+                interview preparation and placement support.
+            </p>
+
+            <p style="font-size:1.05rem; line-height:1.8; color:var(--text-light); margin-top:15px;">
+                Our institute is located at 407, Helix Complex, Opposite Hotel Surya,
+                Sayajigunj, Vadodara, Gujarat 390007.
+            </p>
+
+        </div>
+    </div>
+</section>
+<!-- WhatsApp Brochure CTA Section -->
+<section class="whatsapp-cta-section">
+    <div class="whatsapp-cta-bg-pattern"></div>
+    <div class="container">
+        <div class="whatsapp-cta-inner animate-up">
+
+            <!-- Left: Icon & Heading -->
+            <div class="whatsapp-cta-left">
+                <div class="wa-icon-wrap">
+                    <i class="fa-brands fa-whatsapp"></i>
+                </div>
+                <div class="wa-text">
+                    <h2>Get Course Brochure &amp;<br><span>Placement Details</span> on WhatsApp</h2>
+                    <p>Receive our complete course curriculum, fee structure, batch schedule &amp; placement records
+                        — instantly on WhatsApp. No spam, ever.</p>
+                </div>
+            </div>
+
+            <!-- Right: Features + Button -->
+            <div class="whatsapp-cta-right">
+                <ul class="wa-features">
+                    <li><i class="fa-solid fa-circle-check"></i> Detailed Course Brochure (PDF)</li>
+                    <li><i class="fa-solid fa-circle-check"></i> 100% Placement Support</li>
+                    <li><i class="fa-solid fa-circle-check"></i> Fee Structure &amp; EMI Options</li>
+                    <li><i class="fa-solid fa-circle-check"></i> Next Batch Start Date</li>
+                </ul>
+                <a href="https://wa.me/919054616214?text=Hi%2C%20I%20want%20to%20know%20more%20about%20the%20courses%20at%20Analytics%20Fusion%20Lab.%20Please%20send%20me%20the%20brochure%20and%20placement%20details."
+                    target="_blank" class="wa-btn" id="whatsappBrochureBtn">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    Send Me Brochure on WhatsApp
+                </a>
+                <p class="wa-note"><i class="fa-solid fa-lock"></i> Your number is 100% safe &amp; secure</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Course Syllabus Section -->
+<section class="afl-syllabus-home">
+    <div class="container">
+        <div class="section-title text-center">
+            <span class="subtitle">COMPLETE COURSE CURRICULUM</span>
+            <h2>Explore Our <span>Course Syllabus</span></h2>
+            
+        </div>
+        <div class="afl-syllabus-grid">
+            <a href="data-analytics-syllabus.html" class="afl-syllabus-card"><i class="fa-solid fa-chart-line"></i><h3>Data Analytics</h3><span>View Full Syllabus <b>→</b></span></a>
+            <a href="data-science-syllabus.html" class="afl-syllabus-card"><i class="fa-solid fa-database"></i><h3>Data Science</h3><span>View Full Syllabus <b>→</b></span></a>
+            <a href="ai-ml-syllabus.html" class="afl-syllabus-card"><i class="fa-solid fa-brain"></i><h3>AI &amp; Machine Learning</h3><span>View Full Syllabus <b>→</b></span></a>
+            <a href="aws-cloud-syllabus.html" class="afl-syllabus-card"><i class="fa-brands fa-aws"></i><h3>AWS Cloud</h3><span>View Full Syllabus <b>→</b></span></a>
+            <a href="cyber-security-syllabus.html" class="afl-syllabus-card"><i class="fa-solid fa-shield-halved"></i><h3>Cyber Security</h3><span>View Full Syllabus <b>→</b></span></a>
+            <a href="digital-marketing-syllabus.html" class="afl-syllabus-card"><i class="fa-solid fa-bullhorn"></i><h3>Digital Marketing</h3><span>View Full Syllabus <b>→</b></span></a>
+            <a href="graphic-design-syllabus.html" class="afl-syllabus-card"><i class="fa-solid fa-pen-nib"></i><h3>Graphic Design</h3><span>View Full Syllabus <b>→</b></span></a>
+        </div>
+        <div class="afl-syllabus-all"><a href="syllabus.html" class="btn btn-cta-primary">View All Course Syllabuses</a></div>
+    </div>
+</section>
+<style>
+.afl-syllabus-home{padding:80px 0;background:linear-gradient(145deg,#0b1120,#111827)}
+.afl-syllabus-home .section-title{max-width:760px;margin:0 auto 38px;text-align:center}
+.afl-syllabus-home .subtitle{color:#67e8f9;font-size:.78rem;font-weight:800;letter-spacing:1.5px}
+.afl-syllabus-home h2{font-size:2.35rem;margin:9px 0}.afl-syllabus-home h2 span{color:#06b6d4}
+.afl-syllabus-home .section-title p{color:#aeb8c8}
+.afl-syllabus-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.afl-syllabus-card{background:linear-gradient(145deg,#151f33,#101827);border:1px solid #29364d;border-radius:17px;padding:25px 20px;transition:.25s}
+.afl-syllabus-card:hover{transform:translateY(-6px);border-color:#06b6d4;box-shadow:0 18px 35px rgba(0,0,0,.28)}
+.afl-syllabus-card i{font-size:31px;color:#67e8f9;margin-bottom:17px}
+.afl-syllabus-card h3{font-size:1.15rem;margin-bottom:12px}
+.afl-syllabus-card span{color:#aeb8c8;font-size:.82rem;font-weight:700}.afl-syllabus-card b{color:#67e8f9}
+.afl-syllabus-all{text-align:center;margin-top:32px}
+@media(max-width:900px){.afl-syllabus-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.afl-syllabus-home{padding:58px 0}.afl-syllabus-grid{grid-template-columns:1fr}.afl-syllabus-home h2{font-size:1.9rem}}
+</style>
+
+<!-- Footer Section -->
+</main>
+<footer class="main-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <!-- Brand Info -->
+            <div class="footer-widget">
+                <a href="index.html" class="logo"
+                    style="margin-bottom: 20px; display: inline-flex; align-items: center;">
+                    <img width="75" height="75" loading="lazy" decoding="async" src="assets/images/logo-160.webp" alt="AFL Institute - IT Training Institute in Vadodara"
+                        style="height: 75px; border-radius: 50%; border: 2px solid white; margin-right: 15px;">
+                    <span class="logo-text" style="color: white; font-size: 1.5rem;">Analytics Fusion Lab Institute</span>
+                </a>
+                <p class="footer-desc"><strong>Empowering Minds With Right Knowledge.</strong><br>Specialized training
+                    in AI, ML, Data Science, and Gen AI.</p>
+                <div class="social-links">
+                    <a aria-label="Facebook" href="https://www.facebook.com/share/1DAAJi81hw/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a aria-label="Instagram" href="https://www.instagram.com/analytics_fusion.lab" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a aria-label="LinkedIn" href="https://www.linkedin.com/in/analytics-fusion-lab-4167803a5" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                </div>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="footer-widget">
+                <h4>Quick Links</h4>
+                <ul class="footer-links">
+                    <li><a href="about.html"><i class="fa-solid fa-chevron-right"></i> About Us</a></li>
+                    <li><a href="courses.html"><i class="fa-solid fa-chevron-right"></i> Our Courses</a></li>
+                    <li><a href="hire-afl-talent.html"><i class="fa-solid fa-chevron-right"></i> Hire AFL Talent</a></li>
+                    <li><a href="join-afl-team.html"><i class="fa-solid fa-chevron-right"></i> Join AFL Team</a></li>
+                    <li><a href="syllabus.html"><i class="fa-solid fa-chevron-right"></i> Course Syllabus</a></li>
+                    <li><a href="contact.html"><i class="fa-solid fa-chevron-right"></i> Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Top Courses -->
+            <div class="footer-widget">
+                <h4>Core Programs</h4>
+                <ul class="footer-links">
+                    <li><a href="data-analytics-course-vadodara.html"><i class="fa-solid fa-chevron-right"></i> Data Analytics Course</a></li>
+                    <li><a href="data-science-course-vadodara.html"><i class="fa-solid fa-chevron-right"></i> Data Science Course</a></li>
+                   <li><a href="ai-ml-course-vadodara.html"><i class="fa-solid fa-chevron-right"></i> AI / ML Course</a></li>
+                    <li><a href="aws-cloud-course-vadodara.html"><i class="fa-solid fa-chevron-right"></i> AWS Cloud Course</a></li>
+                <li><a href="digital-marketing-course-vadodara.html"><i class="fa-solid fa-chevron-right"></i> Digital Marketing Course</a></li>
+            <li><a href="graphic-design-course-vadodara.html"><i class="fa-solid fa-chevron-right"></i> Graphic Design Course</a></li>
+        </ul>
+            </div>
+
+            <!-- Contact Info -->
+            <div class="footer-widget">
+                <h4>Get In Touch</h4>
+                <ul class="contact-info">
+                    <li>
+                        <i class="fa-solid fa-location-dot"></i>
+                        <div>
+                            <strong>Vadodara:</strong><br>
+                            407, Helix, Opposite Hotel Surya,<br>
+                            Sayajigunj, Vadodara, Gujarat 390007
+                        </div>
+                    </li>
+                    <li>
+                        <i class="fa-solid fa-phone"></i>
+                        <div><a href="tel:+919054616214" style="color:inherit;">+91 90546 16214</a></div>
+                    </li>
+                    <li>
+                        <i class="fa-brands fa-whatsapp"></i>
+                        <div><a href="https://wa.me/919054616214" target="_blank" style="color:inherit;">+91 90546 16214</a></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom" style="text-align: center;">
+            <p>&copy; 2026 Analytics Fusion Lab Institute. All Rights Reserved.</p>
+            <p style="margin-top: 8px; font-size: 0.9rem; color: var(--text-light);">Designed &amp; Developed by <strong>AFL Institute</strong></p>
+        </div>
+    </div>
+</footer>
+
+<!-- 10s WhatsApp Pop-up Modal -->
+<div id="waPopupOverlay" class="wa-popup-overlay">
+    <div class="wa-popup-box">
+        <button class="wa-popup-close" onclick="closeWaPopup()"><i class="fa-solid fa-xmark"></i></button>
+        <div class="wa-popup-header">
+            <i class="fa-brands fa-whatsapp"></i>
+            <h3>Talk to a <span>Counselor</span></h3>
+        </div>
+        <div class="wa-popup-body">
+            <p>Get the course brochure, placement details, and expert guidance directly on WhatsApp!</p>
+            <a href="https://wa.me/919054616214" target="_blank" class="btn btn-primary" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #25d366; border-color: #25d366; color: white;">
+                <i class="fa-brands fa-whatsapp" style="font-size: 1.2rem;"></i> Message Us Now
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<!-- Custom JS -->
+<script defer src="assets/js/main.js"></script>
+
+<!-- WhatsApp Popup Script -->
+<script>
+    // Trigger popup after 10 seconds of page load
+    setTimeout(function() {
+        // If they are already on the contact page or clicked close, maybe don't bother?
+        // The user asked "pop up evertime", so we just show it.
+        const waOverlay = document.getElementById('waPopupOverlay');
+        if(waOverlay) {
+            waOverlay.classList.add('active');
+        }
+    }, 10000);
+
+    function closeWaPopup() {
+        document.getElementById('waPopupOverlay').classList.remove('active');
+    }
+</script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.1/vanilla-tilt.min.js"></script>
+
+<!-- Floating Google Rating + WhatsApp -->
+<div class="afl-float-contact">
+    <div class="afl-google-badge"
+       aria-label="AFL Institute Google rating 4.9">
+        <span class="rating">4.9</span>
+        <span class="stars">★★★★★</span>
+        <span class="google-word">Google</span>
+    </div>
+
+    <a class="afl-whatsapp-badge"
+       href="https://wa.me/919054616214?text=Hi%2C%20I%20want%20to%20know%20more%20about%20AFL%20Institute."
+       target="_blank" rel="noopener noreferrer"
+       aria-label="Chat with AFL Institute on WhatsApp">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+</div>
+
+
+<style>
+/* Place Google badge on left side and WhatsApp badge on right side */
+.afl-float-contact {
+    position: static !important;
+    display: block !important;
+}
+
+.afl-google-badge {
+    position: fixed !important;
+    left: 18px !important;
+    right: auto !important;
+    bottom: 18px !important;
+    z-index: 9999 !important;
+}
+
+.afl-whatsapp-badge {
+    position: fixed !important;
+    right: 18px !important;
+    left: auto !important;
+    bottom: 18px !important;
+    z-index: 9999 !important;
+}
+
+@media (max-width: 600px) {
+    .afl-google-badge {
+        left: 10px !important;
+        bottom: 12px !important;
+    }
+
+    .afl-whatsapp-badge {
+        right: 10px !important;
+        bottom: 12px !important;
+    }
+}
+</style>
+
+
+<style>
+/* FINAL: Bigger Google Review badge only */
+.afl-google-badge {
+    width: 110px !important;
+    height: 110px !important;
+    min-width: 110px !important;
+    min-height: 110px !important;
+}
+.afl-google-badge .rating {
+    font-size: 32px !important;
+}
+.afl-google-badge .stars {
+    font-size: 14px !important;
+}
+.afl-google-badge .google-word {
+    font-size: 14px !important;
+}
+
+@media (max-width: 600px) {
+    .afl-google-badge {
+        width: 90px !important;
+        height: 90px !important;
+        min-width: 90px !important;
+        min-height: 90px !important;
+    }
+    .afl-google-badge .rating { font-size: 27px !important; }
+    .afl-google-badge .stars { font-size: 11px !important; }
+    .afl-google-badge .google-word { font-size: 12px !important; }
+}
+</style>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+<style>
+/* Same size for Google Review and WhatsApp floating buttons */
+.afl-google-badge,
+.afl-whatsapp-badge {
+    width: 72px !important;
+    height: 72px !important;
+    min-width: 72px !important;
+    min-height: 72px !important;
+    box-sizing: border-box;
+}
+
+.afl-google-badge .rating {
+    font-size: 22px !important;
+    margin-bottom: 2px !important;
+}
+
+.afl-google-badge .stars {
+    font-size: 9px !important;
+    margin-bottom: 3px !important;
+}
+
+.afl-google-badge .google-word {
+    font-size: 10px !important;
+}
+
+.afl-whatsapp-badge {
+    font-size: 31px !important;
+}
+
+@media (max-width: 600px) {
+    .afl-google-badge,
+    .afl-whatsapp-badge {
+        width: 60px !important;
+        height: 60px !important;
+        min-width: 60px !important;
+        min-height: 60px !important;
+    }
+    .afl-google-badge .rating { font-size: 19px !important; }
+    .afl-google-badge .stars { font-size: 8px !important; }
+    .afl-google-badge .google-word { font-size: 9px !important; }
+    .afl-whatsapp-badge { font-size: 28px !important; }
+}
+</style>
