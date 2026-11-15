@@ -61,14 +61,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // 4. Scroll Animation Observer
-    const animateElements = document.querySelectorAll('.animate-up');
+    // Hero content is above the fold: never hide it (keeps LCP fast)
+    const animateElements = Array.from(document.querySelectorAll('.animate-up')).filter(el => !el.closest('.hero'));
     
     const animationObserver = new IntersectionObserver((entries, observer) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.style.opacity = '1';
-                // Trigger reflow to restart animation if needed
-                void entry.target.offsetWidth;
                 observer.unobserve(entry.target);
             }
         });
